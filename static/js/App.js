@@ -46,7 +46,7 @@ function App() {
         <
         header className = "App-header" >
         <
-        h2 > Install Demo < /h2> {
+        h2 > Install App < /h2> {
             installable &&
                 <
                 button className = "install-button"
