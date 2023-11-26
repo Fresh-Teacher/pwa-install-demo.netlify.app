@@ -28,7 +28,7 @@
                         children: Object(i.jsxs)("header", {
                             className: "App-header",
                             children: [Object(i.jsx)("h2", {
-                                children: "Install Demo"
+                                children: "Namungoona Parents' Junior School"
                             }), t && Object(i.jsx)("button", {
                                 className: "install-button",
                                 onClick: function(e) {
@@ -36,12 +36,12 @@
                                         "accepted" === e.outcome ? console.log("User accepted the install prompt") : console.log("User dismissed the install prompt")
                                     }))
                                 },
-                                children: "INSTALL ME"
+                                children: "INSTALL APP"
                             }), Object(i.jsx)("p", {
                                 children: Object(i.jsx)("a", {
-                                    href: "https://github.com/adueck/pwa-install-demo",
+                                    href: "https://fresh-teacher.github.io/Movie-Site/npjs.html",
                                     className: "App-link",
-                                    children: "View source on GitHub"
+                                    children: "Go to Home 🏠"
                                 })
                             })]
                         })

@@ -53,7 +53,7 @@ function App() {
             onClick = {
                     handleInstallClick
                 } >
-                INSTALL ME <
+                INSTALL APP <
                 /button>
         } <
         p >
@@ -61,7 +61,7 @@ function App() {
         a href = {
             repo
         }
-        className = "App-link" > View source on GitHub < /a> <
+        className = "App-link" > Continue to Namungoona Parents' Junior School Homepage < /a> <
         /p> <
         /header> <
         /div>
